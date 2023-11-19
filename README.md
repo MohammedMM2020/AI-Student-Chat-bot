@@ -68,7 +68,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 ## 1. Clone the repo
 
 ```bash
-git clone https://github.com/IBM/Education-SelfService-AI-Assistant
+git clone [https://github.com/MohammedMM2020/AI-Student-Chat-bot]
 ```
 
 ## 2. Create IBM Cloud services
