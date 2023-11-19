@@ -1,4 +1,4 @@
-# Create a Chatbot experience to help students learning remotely to find courses and develop curriculums
+# Create a Chatbot experience to help students learning 
 
 <br>
 <p align="center">
